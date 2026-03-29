@@ -73,7 +73,7 @@ const cidades = {
 // ===================== ROTAS OFICIAIS =====================
 const rotasOficiais = {
   // === BRASIL ===
-  "São Paulo-Rio de Janeiro": {companhia:"Gol", modelo:"Boeing 737", distancia:430, tempo:1},
+  "São Paulo-Rio de Janeiro": {companhia:"Gol", modelo:"Airbus A320", distancia:430, tempo:1},
   "São Paulo-Guarulhos": {companhia:"LATAM", modelo:"Airbus A320", distancia:21, tempo:0.5},
   "São Paulo-Brasília": {companhia:"Gol", modelo:"Boeing 737", distancia:1010, tempo:1.5},
   "São Paulo-Belo Horizonte": {companhia:"LATAM", modelo:"Boeing 737", distancia:586, tempo:1},
@@ -301,7 +301,7 @@ function escolherCompanhiaModelo(origem,destino){
   if(rotasOficiais[key]) return {companhia:rotasOficiais[key].companhia, modelo:rotasOficiais[key].modelo};
   let pais = cidades[destino].pais;
   let companhias = companhiasPorPais[pais] || ["LATAM"];
-  const modelos = ["Airbus A320","Airbus A330","Airbus A350","Airbus A380","Boeing 737","Boeing 747","Boeing 767","Boeing 777","Boeing 787"];
+  const modelos = ["Airbus A320","Airbus A330","Airbus A350","Airbus A380","Airbus A220","Boeing 737","Boeing 757","Boeing 747","Boeing 767","Boeing 777","Boeing 787"];
   return {companhia:companhias[Math.floor(Math.random()*companhias.length)], modelo:modelos[Math.floor(Math.random()*modelos.length)]};
 }
 
