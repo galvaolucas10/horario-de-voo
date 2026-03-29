@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Simulador de Voo</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>✈️ Simulador de Voo</h1>
+
+<div class="container">
+
+  <div class="campo">
+    <label>Origem</label>
+    <input type="text" id="origem" placeholder="Ex: São Paulo">
+  </div>
+
+  <div class="campo">
+    <label>Destino</label>
+    <input type="text" id="destino" placeholder="Ex: Rio de Janeiro">
+  </div>
+
+  <div class="campo">
+    <label>Hora de saída</label>
+    <input type="time" id="horaSaida">
+  </div>
+
+  <button onclick="calcularVoo()">Calcular Voo</button>
+
+  <div id="resultado"></div>
+</div>
+
+<script src="script.js"></script>
+    
+</body>
+</html>

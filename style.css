@@ -1,0 +1,52 @@
+body {
+  font-family: Arial;
+  background: #0a1f44;
+  color: white;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.container {
+  background: #122b5c;
+  padding: 20px;
+  border-radius: 12px;
+  width: 400px;
+  margin: auto;
+}
+
+.campo {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+.campo label {
+  font-size: 13px;
+  color: #aaa;
+  margin-bottom: 5px;
+}
+
+.campo input {
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  font-size: 14px;
+}
+
+button {
+  width: 100%;
+  padding: 12px;
+  border-radius: 8px;
+  border: none;
+  background: #00c3ff;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#resultado {
+  margin-top: 20px;
+  text-align: left;
+  font-size: 14px;
+}
