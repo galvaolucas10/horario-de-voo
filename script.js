@@ -83,8 +83,7 @@ const rotasOficiais = {
   "São Paulo-Fortaleza": {companhia:"LATAM", modelo:"Boeing 737", distancia:2920, tempo:4},
   "São Paulo-Manaus": {companhia:"Azul", modelo:"Embraer 195", distancia:3290, tempo:5},
   "São Paulo-Recife": {companhia:"Gol", modelo:"Boeing 737", distancia:2860, tempo:4},
-
-  "Rio de Janeiro-São Paulo": {companhia:"Gol", modelo:"Boeing 737", distancia:430, tempo:1},
+"Rio de Janeiro-São Paulo": {companhia:"Gol", modelo:"Boeing 737", distancia:430, tempo:1},
   "Rio de Janeiro-Guarulhos": {companhia:"LATAM", modelo:"Airbus A320", distancia:403, tempo:1},
   "Rio de Janeiro-Brasília": {companhia:"Gol", modelo:"Boeing 737", distancia:930, tempo:1.5},
   "Rio de Janeiro-Belo Horizonte": {companhia:"LATAM", modelo:"Boeing 737", distancia:330, tempo:1},
@@ -94,8 +93,7 @@ const rotasOficiais = {
   "Rio de Janeiro-Fortaleza": {companhia:"LATAM", modelo:"Boeing 737", distancia:2960, tempo:4},
   "Rio de Janeiro-Manaus": {companhia:"Azul", modelo:"Embraer 195", distancia:3570, tempo:5},
   "Rio de Janeiro-Recife": {companhia:"Gol", modelo:"Boeing 737", distancia:2450, tempo:3.5},
-
-  "Guarulhos-São Paulo": {companhia:"LATAM", modelo:"Airbus A320", distancia:21, tempo:0.5},
+"Guarulhos-São Paulo": {companhia:"LATAM", modelo:"Airbus A320", distancia:21, tempo:0.5},
   "Guarulhos-Rio de Janeiro": {companhia:"LATAM", modelo:"Airbus A320", distancia:403, tempo:1},
   "Guarulhos-Brasília": {companhia:"Gol", modelo:"Boeing 737", distancia:1010, tempo:1.5},
   "Guarulhos-Belo Horizonte": {companhia:"LATAM", modelo:"Boeing 737", distancia:586, tempo:1},
@@ -105,8 +103,7 @@ const rotasOficiais = {
   "Guarulhos-Fortaleza": {companhia:"LATAM", modelo:"Boeing 737", distancia:2920, tempo:4},
   "Guarulhos-Manaus": {companhia:"Azul", modelo:"Embraer 195", distancia:3290, tempo:5},
   "Guarulhos-Recife": {companhia:"Gol", modelo:"Boeing 737", distancia:2860, tempo:4},
-
-  "Brasília-São Paulo": {companhia:"Gol", modelo:"Boeing 737", distancia:1010, tempo:1.5},
+"Brasília-São Paulo": {companhia:"Gol", modelo:"Boeing 737", distancia:1010, tempo:1.5},
   "Brasília-Rio de Janeiro": {companhia:"Gol", modelo:"Boeing 737", distancia:930, tempo:1.5},
   "Brasília-Guarulhos": {companhia:"Gol", modelo:"Boeing 737", distancia:1010, tempo:1.5},
   "Brasília-Belo Horizonte": {companhia:"LATAM", modelo:"Boeing 737", distancia:720, tempo:1.5},
@@ -116,8 +113,7 @@ const rotasOficiais = {
   "Brasília-Fortaleza": {companhia:"LATAM", modelo:"Boeing 737", distancia:2000, tempo:3},
   "Brasília-Manaus": {companhia:"Azul", modelo:"Embraer 195", distancia:1600, tempo:2.5},
   "Brasília-Recife": {companhia:"Gol", modelo:"Boeing 737", distancia:1800, tempo:3},
-
-  "Belo Horizonte-São Paulo": {companhia:"LATAM", modelo:"Boeing 737", distancia:586, tempo:1},
+ "Belo Horizonte-São Paulo": {companhia:"LATAM", modelo:"Boeing 737", distancia:586, tempo:1},
   "Belo Horizonte-Rio de Janeiro": {companhia:"LATAM", modelo:"Boeing 737", distancia:330, tempo:1},
   "Belo Horizonte-Guarulhos": {companhia:"LATAM", modelo:"Boeing 737", distancia:586, tempo:1},
   "Belo Horizonte-Brasília": {companhia:"LATAM", modelo:"Boeing 737", distancia:720, tempo:1.5},
@@ -127,8 +123,7 @@ const rotasOficiais = {
   "Belo Horizonte-Fortaleza": {companhia:"LATAM", modelo:"Boeing 737", distancia:2630, tempo:4},
   "Belo Horizonte-Manaus": {companhia:"Azul", modelo:"Embraer 195", distancia:2850, tempo:4.5},
   "Belo Horizonte-Recife": {companhia:"Gol", modelo:"Boeing 737", distancia:2150, tempo:3},
-
-  // === ROTAS INTERNACIONAIS ===
+// === ROTAS INTERNACIONAIS ===
   "São Paulo-Miami": {companhia:"American Airlines", modelo:"Boeing 777", distancia:6670, tempo:7},
   "São Paulo-Nova York": {companhia:"LATAM", modelo:"Boeing 787", distancia:7700, tempo:10},
   "São Paulo-Lisboa": {companhia:"TAP Air Portugal", modelo:"Airbus A330", distancia:7440, tempo:10.5},
@@ -158,8 +153,7 @@ const rotasOficiais = {
   "Lima-São Paulo": {companhia:"LATAM", modelo:"Boeing 767", distancia:3420, tempo:5},
   "Toronto-Nova York": {companhia:"Air Canada", modelo:"Boeing 737", distancia:550, tempo:1.5},
   "Londres-Paris": {companhia:"Air France", modelo:"Airbus A320", distancia:340, tempo:1},
-
-  // === AMÉRICA DO SUL INTERNACIONAL ===
+// === AMÉRICA DO SUL INTERNACIONAL ===
   "Buenos Aires-Córdoba": {companhia:"Aerolineas Argentinas", modelo:"Boeing 737", distancia:650, tempo:1.5},
   "Buenos Aires-Santiago": {companhia:"LATAM", modelo:"Boeing 737", distancia:1400, tempo:2},
   "Buenos Aires-Lima": {companhia:"LATAM", modelo:"Boeing 767", distancia:3200, tempo:4},
@@ -167,32 +161,27 @@ const rotasOficiais = {
   "Buenos Aires-Caracas": {companhia:"LATAM", modelo:"Boeing 767", distancia:4600, tempo:6},
   "Buenos Aires-Montevidéu": {companhia:"Aerolineas Argentinas", modelo:"Boeing 737", distancia:200, tempo:0.5},
   "Buenos Aires-Quito": {companhia:"LATAM", modelo:"Boeing 767", distancia:4600, tempo:6},
-
-  // (rotas da América do Sul completas, como na versão anterior...)
-
-  // === AMÉRICA DO NORTE INTERNACIONAL ===
+// (rotas da América do Sul completas, como na versão anterior...)
+// === AMÉRICA DO NORTE INTERNACIONAL ===
   "Miami-Nova York": {companhia:"American Airlines", modelo:"Boeing 737", distancia:1750, tempo:3},
   "Miami-Los Angeles": {companhia:"American Airlines", modelo:"Boeing 777", distancia:3750, tempo:5},
   "Miami-Chicago": {companhia:"United Airlines", modelo:"Boeing 737", distancia:1930, tempo:3.5},
   "Miami-Toronto": {companhia:"Air Canada", modelo:"Boeing 737", distancia:2200, tempo:3.5},
   "Miami-Cidade do México": {companhia:"American Airlines", modelo:"Boeing 737", distancia:3670, tempo:5},
   "Miami-Vancouver": {companhia:"United Airlines", modelo:"Boeing 777", distancia:4350, tempo:6},
-
-  // === EUROPA INTERNACIONAL ===
+// === EUROPA INTERNACIONAL ===
   "Lisboa-Porto": {companhia:"TAP Air Portugal", modelo:"Airbus A320", distancia:300, tempo:1},
   "Lisboa-Paris": {companhia:"Air France", modelo:"Airbus A320", distancia:1450, tempo:2.5},
   "Lisboa-Londres": {companhia:"British Airways", modelo:"Boeing 777", distancia:1560, tempo:3},
   "Lisboa-Madri": {companhia:"Iberia", modelo:"Airbus A320", distancia:500, tempo:1},
   "Lisboa-Roma": {companhia:"Alitalia", modelo:"Airbus A320", distancia:2300, tempo:3.5},
   "Lisboa-Milão": {companhia:"Alitalia", modelo:"Airbus A320", distancia:2200, tempo:3.5},
-
-  "Paris-Londres": {companhia:"Air France", modelo:"Airbus A320", distancia:340, tempo:1},
+"Paris-Londres": {companhia:"Air France", modelo:"Airbus A320", distancia:340, tempo:1},
   "Paris-Madri": {companhia:"Air France", modelo:"Airbus A320", distancia:1270, tempo:2},
   "Paris-Barcelona": {companhia:"Air France", modelo:"Airbus A320", distancia:1030, tempo:2},
   "Paris-Roma": {companhia:"Air France", modelo:"Boeing 777", distancia:1100, tempo:2},
   "Paris-Milão": {companhia:"Air France", modelo:"Boeing 777", distancia:850, tempo:2},
-
-  // === ÁSIA INTERNACIONAL ===
+// === ÁSIA INTERNACIONAL ===
   "Dubai-Abu Dhabi": {companhia:"Emirates", modelo:"Airbus A320", distancia:140, tempo:0.5},
   "Dubai-Tóquio": {companhia:"Emirates", modelo:"Airbus A380", distancia:7900, tempo:10},
   "Dubai-Osaka": {companhia:"Emirates", modelo:"Airbus A380", distancia:7800, tempo:10},
@@ -201,31 +190,26 @@ const rotasOficiais = {
   "Dubai-Seul": {companhia:"Emirates", modelo:"Airbus A380", distancia:6800, tempo:9},
   "Dubai-Mumbai": {companhia:"Emirates", modelo:"Airbus A320", distancia:2000, tempo:3},
   "Dubai-Delhi": {companhia:"Emirates", modelo:"Airbus A320", distancia:2100, tempo:3},
-
-  "Tóquio-Osaka": {companhia:"ANA", modelo:"Boeing 777", distancia:500, tempo:1},
+"Tóquio-Osaka": {companhia:"ANA", modelo:"Boeing 777", distancia:500, tempo:1},
   "Tóquio-Xangai": {companhia:"Air China", modelo:"Boeing 777", distancia:1800, tempo:3},
   "Tóquio-Beijing": {companhia:"Air China", modelo:"Boeing 777", distancia:2100, tempo:3.5},
   "Tóquio-Seul": {companhia:"Korean Air", modelo:"Boeing 777", distancia:1150, tempo:2},
-
-  // === OCEANIA INTERNACIONAL ===
+// === OCEANIA INTERNACIONAL ===
   "Sydney-Melbourne": {companhia:"Qantas", modelo:"Boeing 737", distancia:720, tempo:1.5},
   "Sydney-Auckland": {companhia:"Air New Zealand", modelo:"Airbus A320", distancia:2160, tempo:3},
   "Melbourne-Auckland": {companhia:"Air New Zealand", modelo:"Airbus A320", distancia:2800, tempo:3.5},
   "Auckland-Wellington": {companhia:"Air New Zealand", modelo:"Airbus A320", distancia:640, tempo:1},
-
-  // === ÁFRICA INTERNACIONAL ===
+// === ÁFRICA INTERNACIONAL ===
   "Johannesburg-Cidade do Cabo": {companhia:"South African Airways", modelo:"Boeing 737", distancia:1400, tempo:2},
   "Johannesburg-Cairo": {companhia:"EgyptAir", modelo:"Boeing 777", distancia:7000, tempo:8},
   "Johannesburg-Nairóbi": {companhia:"Kenya Airways", modelo:"Boeing 777", distancia:3300, tempo:4},
   "Johannesburg-Lagos": {companhia:"South African Airways", modelo:"Boeing 737", distancia:4200, tempo:5},
   "Johannesburg-Casablanca": {companhia:"Royal Air Maroc", modelo:"Boeing 737", distancia:7200, tempo:8},
-
   "Cidade do Cabo-Johannesburg": {companhia:"South African Airways", modelo:"Boeing 737", distancia:1400, tempo:2},
   "Cidade do Cabo-Cairo": {companhia:"EgyptAir", modelo:"Boeing 777", distancia:7100, tempo:8},
   "Cidade do Cabo-Nairóbi": {companhia:"Kenya Airways", modelo:"Boeing 777", distancia:3200, tempo:4},
   "Cidade do Cabo-Lagos": {companhia:"South African Airways", modelo:"Boeing 737", distancia:4100, tempo:5},
   "Cidade do Cabo-Casablanca": {companhia:"Royal Air Maroc", modelo:"Boeing 737", distancia:7000, tempo:8},
-
   "Cairo-Johannesburg": {companhia:"EgyptAir", modelo:"Boeing 777", distancia:7000, tempo:8},
   "Cairo-Cidade do Cabo": {companhia:"EgyptAir", modelo:"Boeing 777", distancia:7100, tempo:8},
   "Cairo-Nairóbi": {companhia:"Kenya Airways", modelo:"Boeing 777", distancia:4300, tempo:5},
@@ -246,27 +230,121 @@ const rotasOficiais = {
   "Lima-São Paulo": {companhia:"LATAM", modelo:"Boeing 767", distancia:3420, tempo:5},
   "Toronto-Nova York": {companhia:"Air Canada", modelo:"Boeing 737", distancia:550, tempo:1.5},
   "Londres-Paris": {companhia:"Air France", modelo:"Airbus A320", distancia:340, tempo:1},
-
-  // === INTERNACIONAIS → BRASIL ===
+ // === INTERNACIONAIS → BRASIL ===
   "Dubai-São Paulo": {companhia:"Emirates", modelo:"Airbus A380", distancia:12555, tempo:15},
   "Dubai-Rio de Janeiro": {companhia:"Emirates", modelo:"Airbus A380", distancia:12600, tempo:15},
   "Cairo-São Paulo": {companhia:"EgyptAir", modelo:"Boeing 777", distancia:10600, tempo:13},
   "Cairo-Rio de Janeiro": {companhia:"EgyptAir", modelo:"Boeing 777", distancia:10650, tempo:13},
   "Johannesburg-São Paulo": {companhia:"South African Airways", modelo:"Boeing 777", distancia:6750, tempo:9},
   "Cidade do Cabo-São Paulo": {companhia:"South African Airways", modelo:"Boeing 777", distancia:6800, tempo:9},
-
-  "Lisboa-São Paulo": {companhia:"TAP Air Portugal", modelo:"Airbus A330", distancia:7440, tempo:10.5},
+"Lisboa-São Paulo": {companhia:"TAP Air Portugal", modelo:"Airbus A330", distancia:7440, tempo:10.5},
   "Lisboa-Rio de Janeiro": {companhia:"TAP Air Portugal", modelo:"Airbus A330", distancia:7500, tempo:10.5},
   "Paris-São Paulo": {companhia:"Air France", modelo:"Boeing 777", distancia:9500, tempo:11},
   "Paris-Rio de Janeiro": {companhia:"Air France", modelo:"Boeing 777", distancia:9450, tempo:11},
   "Londres-São Paulo": {companhia:"British Airways", modelo:"Boeing 777", distancia:9300, tempo:11},
   "Londres-Rio de Janeiro": {companhia:"British Airways", modelo:"Boeing 777", distancia:9350, tempo:11},
   "Nova York-São Paulo": {companhia:"LATAM", modelo:"Boeing 787", distancia:7700, tempo:10},
-  "Miami-São Paulo": {companhia:"American Airlines", modelo:"Boeing 777", distancia:6670, tempo:7},
-  "Miami-Rio de Janeiro": {companhia:"American Airlines", modelo:"Boeing 777", distancia:6540, tempo:8},
-
-  "Buenos Aires-São Paulo": {companhia:"LATAM", modelo:"Boeing 737", distancia:2030, tempo:3},
-  "Lima-São Paulo": {companhia:"LATAM", modelo:"Boeing 767", distancia:3420, tempo:5}
+  "Miami-São Paulo": {companhia:"American Airlines", modelo:"Boeing 777", distancia:6670, tempo:7},"Miami-Rio de Janeiro": {companhia:"American Airlines", modelo:"Boeing 777", distancia:6540, tempo:8},
+ "Buenos Aires-São Paulo": {companhia:"LATAM", modelo:"Boeing 737", distancia:2030, tempo:3},
+"Lima-São Paulo": {companhia:"LATAM", modelo:"Boeing 767", distancia:3420, tempo:5},
+// === MAIS ROTAS BRASIL ===
+"Salvador-São Paulo": {companhia:"Gol", modelo:"Boeing 737", distancia:1860, tempo:3},
+"Fortaleza-São Paulo": {companhia:"LATAM", modelo:"Boeing 737", distancia:2920, tempo:4},
+"Manaus-São Paulo": {companhia:"Azul", modelo:"Embraer 195", distancia:3290, tempo:5},
+"Recife-São Paulo": {companhia:"Gol", modelo:"Boeing 737", distancia:2860, tempo:4},
+"Porto Alegre-Curitiba": {companhia:"Azul", modelo:"Embraer 195", distancia:710, tempo:1.5},
+"Curitiba-Porto Alegre": {companhia:"Azul", modelo:"Embraer 195", distancia:710, tempo:1.5},
+// === AMÉRICA DO SUL EXTRA ===
+"Santiago-Lima": {companhia:"LATAM", modelo:"Boeing 767", distancia:2450, tempo:3.5},
+"Lima-Santiago": {companhia:"LATAM", modelo:"Boeing 767", distancia:2450, tempo:3.5},
+"Bogotá-Lima": {companhia:"Avianca", modelo:"Airbus A320", distancia:1900, tempo:3},
+"Lima-Bogotá": {companhia:"Avianca", modelo:"Airbus A320", distancia:1900, tempo:3},
+"Caracas-Bogotá": {companhia:"Avianca", modelo:"Airbus A320", distancia:1020, tempo:2},
+"Bogotá-Caracas": {companhia:"Avianca", modelo:"Airbus A320", distancia:1020, tempo:2},
+// === AMÉRICA DO NORTE EXTRA ===
+"Nova York-Los Angeles": {companhia:"Delta", modelo:"Boeing 777", distancia:3940, tempo:6},
+"Los Angeles-Nova York": {companhia:"Delta", modelo:"Boeing 777", distancia:3940, tempo:6},
+"Chicago-Toronto": {companhia:"Air Canada", modelo:"Boeing 737", distancia:700, tempo:1.5},
+"Toronto-Chicago": {companhia:"Air Canada", modelo:"Boeing 737", distancia:700, tempo:1.5},
+// === EUROPA EXTRA ===
+"Londres-Berlim": {companhia:"British Airways", modelo:"Airbus A320", distancia:930, tempo:2},
+"Berlim-Londres": {companhia:"British Airways", modelo:"Airbus A320", distancia:930, tempo:2},
+"Paris-Berlim": {companhia:"Air France", modelo:"Airbus A320", distancia:1050, tempo:2},
+"Berlim-Paris": {companhia:"Air France", modelo:"Airbus A320", distancia:1050, tempo:2},
+"Madri-Roma": {companhia:"Iberia", modelo:"Airbus A320", distancia:1360, tempo:2.5},
+"Roma-Madri": {companhia:"Iberia", modelo:"Airbus A320", distancia:1360, tempo:2.5},
+// === ÁSIA EXTRA ===
+"Seul-Tóquio": {companhia:"Korean Air", modelo:"Boeing 777", distancia:1150, tempo:2},
+"Tóquio-Seul": {companhia:"Korean Air", modelo:"Boeing 777", distancia:1150, tempo:2},
+"Beijing-Xangai": {companhia:"Air China", modelo:"Boeing 737", distancia:1200, tempo:2},
+"Xangai-Beijing": {companhia:"Air China", modelo:"Boeing 737", distancia:1200, tempo:2},
+// === OCEANIA EXTRA ===
+"Sydney-Wellington": {companhia:"Air New Zealand", modelo:"Airbus A320", distancia:2220, tempo:3},
+"Wellington-Sydney": {companhia:"Air New Zealand", modelo:"Airbus A320", distancia:2220, tempo:3},
+// === ÁFRICA EXTRA ===
+"Nairóbi-Lagos": {companhia:"Kenya Airways", modelo:"Boeing 737", distancia:3800, tempo:5},
+"Lagos-Nairóbi": {companhia:"Kenya Airways", modelo:"Boeing 737", distancia:3800, tempo:5},
+"Casablanca-Cairo": {companhia:"Royal Air Maroc", modelo:"Boeing 737", distancia:3600, tempo:4},
+"Cairo-Casablanca": {companhia:"Royal Air Maroc", modelo:"Boeing 737", distancia:3600, tempo:4},
+// === LONGO CURSO EXTRA (top realista) ===
+"Dubai-Londres": {companhia:"Emirates", modelo:"Airbus A380", distancia:5500, tempo:7},
+"Londres-Dubai": {companhia:"Emirates", modelo:"Airbus A380", distancia:5500, tempo:7},
+"Dubai-Nova York": {companhia:"Emirates", modelo:"Airbus A380", distancia:11000, tempo:13},
+"Nova York-Dubai": {companhia:"Emirates", modelo:"Airbus A380", distancia:11000, tempo:13},
+"Paris-Nova York": {companhia:"Air France", modelo:"Boeing 777", distancia:5830, tempo:7.5},
+"Nova York-Paris": {companhia:"Air France", modelo:"Boeing 777", distancia:5830, tempo:7.5},
+// === BRASIL EXTRA 2 ===
+"Fortaleza-Recife": {companhia:"Azul", modelo:"Embraer 195", distancia:630, tempo:1.5},
+"Recife-Fortaleza": {companhia:"Azul", modelo:"Embraer 195", distancia:630, tempo:1.5},
+"Salvador-Recife": {companhia:"Gol", modelo:"Boeing 737", distancia:800, tempo:1.5},
+"Recife-Salvador": {companhia:"Gol", modelo:"Boeing 737", distancia:800, tempo:1.5},
+"Brasília-Fortaleza": {companhia:"LATAM", modelo:"Boeing 737", distancia:2000, tempo:3},
+"Fortaleza-Brasília": {companhia:"LATAM", modelo:"Boeing 737", distancia:2000, tempo:3},
+// === AMÉRICA DO SUL EXTRA 2 ===
+"Santiago-Buenos Aires": {companhia:"LATAM", modelo:"Boeing 737", distancia:1400, tempo:2},
+"Buenos Aires-Santiago": {companhia:"LATAM", modelo:"Boeing 737", distancia:1400, tempo:2},
+"Montevidéu-Santiago": {companhia:"LATAM", modelo:"Boeing 737", distancia:1900, tempo:2.5},
+"Santiago-Montevidéu": {companhia:"LATAM", modelo:"Boeing 737", distancia:1900, tempo:2.5},
+"Quito-Bogotá": {companhia:"Avianca", modelo:"Airbus A320", distancia:730, tempo:1.5},
+"Bogotá-Quito": {companhia:"Avianca", modelo:"Airbus A320", distancia:730, tempo:1.5},
+// === AMÉRICA DO NORTE EXTRA 2 ===
+"Los Angeles-Chicago": {companhia:"United Airlines", modelo:"Boeing 737", distancia:2800, tempo:4},
+"Chicago-Los Angeles": {companhia:"United Airlines", modelo:"Boeing 737", distancia:2800, tempo:4},
+"Vancouver-Toronto": {companhia:"Air Canada", modelo:"Boeing 777", distancia:3350, tempo:5},
+"Toronto-Vancouver": {companhia:"Air Canada", modelo:"Boeing 777", distancia:3350, tempo:5},
+"Chicago-Nova York": {companhia:"United Airlines", modelo:"Boeing 737", distancia:1150, tempo:2},
+"Nova York-Chicago": {companhia:"United Airlines", modelo:"Boeing 737", distancia:1150, tempo:2},
+// === EUROPA EXTRA 2 ===
+"Barcelona-Roma": {companhia:"Vueling", modelo:"Airbus A320", distancia:860, tempo:2},
+"Roma-Barcelona": {companhia:"Vueling", modelo:"Airbus A320", distancia:860, tempo:2},
+"Milão-Paris": {companhia:"Air France", modelo:"Airbus A320", distancia:850, tempo:1.5},
+"Paris-Milão": {companhia:"Air France", modelo:"Airbus A320", distancia:850, tempo:1.5},
+"Munique-Berlim": {companhia:"Lufthansa", modelo:"Airbus A320", distancia:580, tempo:1},
+"Berlim-Munique": {companhia:"Lufthansa", modelo:"Airbus A320", distancia:580, tempo:1},
+// === ÁSIA EXTRA 2 ===
+"Mumbai-Delhi": {companhia:"Air India", modelo:"Airbus A320", distancia:1150, tempo:2},
+"Delhi-Mumbai": {companhia:"Air India", modelo:"Airbus A320", distancia:1150, tempo:2},
+"Seul-Xangai": {companhia:"Korean Air", modelo:"Boeing 777", distancia:870, tempo:2},
+"Xangai-Seul": {companhia:"Korean Air", modelo:"Boeing 777", distancia:870, tempo:2},
+"Osaka-Seul": {companhia:"ANA", modelo:"Boeing 737", distancia:820, tempo:2},
+"Seul-Osaka": {companhia:"ANA", modelo:"Boeing 737", distancia:820, tempo:2},
+// === OCEANIA EXTRA 2 ===
+"Melbourne-Sydney": {companhia:"Qantas", modelo:"Boeing 737", distancia:720, tempo:1.5},
+"Sydney-Melbourne": {companhia:"Qantas", modelo:"Boeing 737", distancia:720, tempo:1.5},
+"Wellington-Auckland": {companhia:"Air New Zealand", modelo:"Airbus A320", distancia:640, tempo:1},
+"Auckland-Wellington": {companhia:"Air New Zealand", modelo:"Airbus A320", distancia:640, tempo:1},
+// === ÁFRICA EXTRA 2 ===
+"Lagos-Casablanca": {companhia:"Royal Air Maroc", modelo:"Boeing 737", distancia:3900, tempo:5},
+"Casablanca-Lagos": {companhia:"Royal Air Maroc", modelo:"Boeing 737", distancia:3900, tempo:5},
+"Nairóbi-Cairo": {companhia:"EgyptAir", modelo:"Boeing 777", distancia:4300, tempo:5},
+"Cairo-Nairóbi": {companhia:"EgyptAir", modelo:"Boeing 777", distancia:4300, tempo:5},
+// === LONGO CURSO NOVO (TOP) ===
+"Los Angeles-Tóquio": {companhia:"ANA", modelo:"Boeing 787", distancia:8800, tempo:11},
+"Tóquio-Los Angeles": {companhia:"ANA", modelo:"Boeing 787", distancia:8800, tempo:11},
+"Sydney-Dubai": {companhia:"Emirates", modelo:"Airbus A380", distancia:12000, tempo:14},
+"Dubai-Sydney": {companhia:"Emirates", modelo:"Airbus A380", distancia:12000, tempo:14},
+"Toronto-Londres": {companhia:"Air Canada", modelo:"Boeing 777", distancia:5700, tempo:7},
+"Londres-Toronto": {companhia:"Air Canada", modelo:"Boeing 777", distancia:5700, tempo:7}
 };
 
 // ===================== COMPANHIAS POR PAÍS =====================
